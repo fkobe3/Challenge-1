@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*changed semantic from class to just header semantic*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,8 +19,8 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-header h1 .seo {
+/*only needs class, did not need all other aspects*/
+.seo {
     color: #d9dcd6;
 }
 
@@ -86,6 +86,7 @@ p {
     background-color: #2589bd;
 }
 
+/*consolidated the 3 sections into 1 semantic, aside*/
 aside {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,7 +103,7 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*consolidated the 3 sections search engine optimization, online reputation management, and social media marketing, into into 1 semantic, article */
 article{
     margin-bottom: 20px;
     padding: 50px;
@@ -122,12 +123,12 @@ article{
 #social-media-marketing img {
     max-height: 200px;
 }
-
+/*consolidation of the 3 sections since headers were the same*/
 article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*changed div to footer semantic*/
 footer {
     padding: 30px;
     clear: both;
