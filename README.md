@@ -1,5 +1,5 @@
 # Introduction
- This repository is where we work on the webpage for Horiseon. This has a roadmap of all changes made to help increase accessability as well as final versions of the code. 
+ This repository is where we work on the webpage for Horiseon. This has a roadmap of all changes made to help increase accessability as well as final versions of the code. The main items we were working on were accessability via HTML semantics, as well as comments to better understand how we streamlined the code.
  
 # Screenshot
  <img src="assets/images/Screenshot-for-the-Readme.png">
